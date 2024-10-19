@@ -22,8 +22,8 @@ This Node.js application is designed to handle large files in real-time. It moni
 1. Clone or download the repository.
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ShishirPandy/file-handling-app.git
+   cd  file-handling-app
 
 2. ```bash
    npm install
